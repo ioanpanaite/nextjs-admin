@@ -18,7 +18,7 @@ module.exports = {
     return config
   },
   env: {
-    googleKey: "AIzaSyAeJCd8gM5oLEo4ue8nH4g2HR5w6r8l57w",
+    googleKey: "",
   },
   images: {
     minimumCacheTTL: 0,
